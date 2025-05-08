@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @s43r0  
+- 👀 I’m interested in malware analysis, penetration testing, and ethical hacking  
+- 🌱 I’m currently learning reverse engineering, exploit development, and network security  
+- 💞️ I’m looking to collaborate on open-source security tools, CTF write-ups, and beginner-friendly infosec projects  
+- 📫 How to reach me: https://www.linkedin.com/in/shahbaz-sher-126856257/ | Email: shnkhn8910@gmail.com  
+- 😄 Pronouns: he/him   
+- ⚡ Fun fact: I love breaking things just to understand how they work — and then fixing them even better
